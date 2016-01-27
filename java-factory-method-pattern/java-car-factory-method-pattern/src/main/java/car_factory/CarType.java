@@ -1,5 +1,5 @@
 package car_factory;
 
 public enum CarType {
-    DIESEL, PETROL, ELECTRIC
+    FIESTA, CORSA, ASTRA, UNKNOWN
 }
